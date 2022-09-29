@@ -16,7 +16,7 @@
 ### Input : 전국_평균_분양가격_2018.7월_.csv, 지역별_3.3㎡당_평균_분양가격_천원__15.09월.csv
 ### Ouput(.csv) : 2013-2015.csv, 2015-2018.csv, 2013-2018.csv
 ###
-## Conclusion(en,kor)
+## Conclusion(en, kor)
 ### From 2013 to 2018, apartment sales prices continue to increase, and Jeju is the region with the highest width and Ulsan is the region with the lowest width.
 ### Of course, the sale price in Seoul is the highest on average
 ####
